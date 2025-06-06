@@ -21,5 +21,4 @@
 [![](https://github-readme-stats.vercel.app/api?username=flow2708&show_icons=true&theme=radical)]
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=flow2708&layout=compact&theme=radical)]
-![image](https://github.com/user-attachments/assets/5da9beee-c33b-4dbb-a58f-cd46acb2a490)
 
