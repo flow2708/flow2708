@@ -16,6 +16,7 @@
 - Apache tomcat
 - MAMP
 - Linux
+- Nginx
 
 ## 📈 Статистика GitHub
 [![](https://github-readme-stats.vercel.app/api?username=flow2708&show_icons=true&theme=radical)]
