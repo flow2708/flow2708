@@ -8,7 +8,7 @@
 - **Языки**: Java (8+)
 - **Фреймворки и Библиотеки**: Gson, Jackson, Jakarta
 - **Сборка**: Gradle
-- **Базы данных**: MySQL, SQLite
+- **Базы данных**: MySQL, SQLite, Redis
 - **VCS**: Git
 
 ### Также работал с
