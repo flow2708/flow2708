@@ -8,7 +8,7 @@
 - **Языки**: Java (8+)
 - **Фреймворки и Библиотеки**: Gson, Jackson, Jakarta, Spring
 - **Сборка**: Gradle
-- **Базы данных**: MySQL, SQLite, H2, Redis, Neo4j
+- **Базы данных**: MySQL, SQLite, H2, Redis, Neo4j, MongoDB
 - **Платформа обмена сообщениям**: Apache Kafka, RabbitMQ
 - **VCS**: Git
 
